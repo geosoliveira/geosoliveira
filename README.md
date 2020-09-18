@@ -1,4 +1,4 @@
-### Hi there 👋
+Pós-graduando do curso de Mestrado em Automação e Sistemas pela Universidade Federal de Santa Catarina, formado em Engenharia Elétrica pela Universidade Federal de Juiz de Fora. Atualmente trabalha em pesquisas relacionadas à robótica móvel e inteligência artificial.
 
 <!--
 **geosoliveira/geosoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
